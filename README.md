@@ -17,6 +17,12 @@ The raw, uncleaned dataset used for this analysis is available here: [Raw File.z
 - **Unexpected Product Driver:** The top-selling item for VIPs is NOT a luxury item, but low-cost decorative hardware (Avg Price < $5), suggesting a B2B or "craft-store" user base.
 - **Retention Opportunity:** The largest segment is **"Potential Loyalists"**. Converting just 10% of this group could increase revenue by roughly 15%.
 
+## 💡 Business Recommendations
+Based on the analysis, I recommend the following actions:
+1. **Target the "At Risk" Champions:** The dashboard identifies 1,200+ customers who spend highly but haven't purchased recently. The sales team should prioritize calling these clients immediately.
+2. **Cross-Sell to "Potential Loyalists":** This segment is large and active. Offering them a small discount or bundle deal could push them into the "Loyal" or "Champion" tier.
+3. **Re-evaluate Product Mix:** Since top customers buy low-cost items frequently, stock levels for these "bread and butter" items should be increased to prevent stockouts.
+
 ## 🛠️ Technical Process
 1. **Data Engineering:**
    - Imported raw CSV data into **PostgreSQL**.
