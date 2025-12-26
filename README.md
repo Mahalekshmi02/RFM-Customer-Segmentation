@@ -27,7 +27,7 @@ I analyzed a dataset of **1 million+ retail transactions** to perform an **RFM (
    - Created specific "Call Lists" for the sales team to target "At Risk" high-spenders.
 
 ## 📄 SQL Code Structure
-You can view the full SQL script in the file [rfm_analysis.sql](rfm_analysis.sql).
+You can view the full SQL script in the file [rfm_analysis.sql](SQL Code.docx).
 The logic follows this flow:
 1. `CREATE TABLE` and Import data.
 2. `WITH rfm_metrics AS (...)` -> Calculate raw metrics.
