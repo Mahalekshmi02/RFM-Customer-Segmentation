@@ -4,7 +4,7 @@
 ## 📌 Project Overview
 I analyzed a dataset of **1 million+ retail transactions** to perform an **RFM (Recency, Frequency, Monetary)** analysis. The goal was to segment customers based on purchasing behavior and identify high-value "Champions" versus "At Risk" customers.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard pdf.pdf)
 *(My Power BI Dashboard visualizing the segments)*
 
 ## 🔍 Key Insights
