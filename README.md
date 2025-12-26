@@ -4,12 +4,13 @@
 ## 📌 Project Overview
 I analyzed a dataset of **1 million+ retail transactions** to perform an **RFM (Recency, Frequency, Monetary)** analysis. The goal was to segment customers based on purchasing behavior and identify high-value "Champions" versus "At Risk" customers.
 
+![Dashboard Preview](dashboard.jpg)
+*(My Power BI Dashboard visualizing the segments)*
+
 ## 📂 Data Source
 The raw, uncleaned dataset used for this analysis is available here: [Raw File.zip](Raw%20File.zip)
 *(Note: This file contains nulls, returns, and negative values which were cleaned using SQL)*
 
-![Dashboard Preview](dashboard.jpg)
-*(My Power BI Dashboard visualizing the segments)*
 
 ## 🔍 Key Insights
 - **The "Champions" (Top 20%) drive 60% of revenue.** Despite representing a small portion of the user base, this segment is critical to profitability.
