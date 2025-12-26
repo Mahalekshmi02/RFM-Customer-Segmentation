@@ -5,7 +5,7 @@
 I analyzed a dataset of **1 million+ retail transactions** to perform an **RFM (Recency, Frequency, Monetary)** analysis. The goal was to segment customers based on purchasing behavior and identify high-value "Champions" versus "At Risk" customers.
 
 ## 📂 Data Source
-The raw, uncleaned dataset used for this analysis is available here: [Raw_Data.csv](Raw File.zip)
+The raw, uncleaned dataset used for this analysis is available here: [Raw file.zip](Raw File.zip)
 *(Note: This file contains nulls, returns, and negative values which were cleaned using SQL)*
 
 ![Dashboard Preview](dashboard.jpg)
